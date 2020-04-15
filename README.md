@@ -1,2 +1,4 @@
-# ComputoMovil-UNAM-2020
-Repositorio para los proyectos de la clase de Cómputo Móvil del semestre de privamera 2020.
+# CalculadoraRFC-ComputoMovil
+Aplicación de Android para el cálculo de RFC, signo zodiacal y horóscopo chino.
+
+Android Studio
